@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bbf358e-bb26-4652-96cb-03365416c318" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../For loop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/carshowroom/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/carshowroom/Example1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/hospitalpatient/Example4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/hospitalpatient/Patient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/librarybook/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/librarybook/Example2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/mobilestore/Example3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/mobilestore/Mobile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/universityfaculty/Example5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/bin/com/universityfaculty/Faculty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/src/com/carshowroom/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/src/com/hospitalpatient/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/src/com/librarybook/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/src/com/mobilestore/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Static&amp;non/src/com/universityfaculty/Example5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="3Dek6MZSgrY5XUCXjBJ5unDL3rZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Example1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/10K Java/Practice"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bbf358e-bb26-4652-96cb-03365416c318" name="Changes" comment="" />
+      <created>1778649747762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778649747762</updated>
+    </task>
+    <servers />
+  </component>
+</project>
