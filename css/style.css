@@ -1,0 +1,36 @@
+.container1 {
+    padding: 200px;
+}
+
+.child1 {
+    display: inline-block;
+}
+.child2 {
+    display: inline-block;
+    width: 50%;
+    padding: 20px;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.light-text {
+    color: #777;
+}
+img {
+    width: 100%;
+}
+.container2{
+    padding: 200px;
+}
+.child3{
+    display: inline-block;
+}
+h2 {
+    text-align: center;
+}
+.child4{
+    display: inline-block;
+    padding-left: 800px;
+}
